@@ -5,9 +5,7 @@ This is the code repository for the paper:
 >
 > 
 >
-> \*Corresponding author
->
-> <em><b>MICCAI 2025</b></em>
+> submit this paper to <em><b>MICCAI 2025</b></em>  in 2025.2.27
 >
 <center class ='img'>
 <img title="The proposed PathoHR pipeline for breast cancer os prediction. The pipeline consists of three main components: (1) patch-wise feature extraction, (2) token
