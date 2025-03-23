@@ -12,7 +12,7 @@ This is the code repository for the paper:
 <center class ='img'>
 <img title="The proposed PathoHR pipeline for breast cancer os prediction. The pipeline consists of three main components: (1) patch-wise feature extraction, (2) token
 merge similarity calculation for representation learning, and (3) a plug-and-play ViTAR encoder, that connects to the Transformer Encoder Block and incorporates Attention
-operations to generate predictive outputs." src="https://github.com/AIGeeksGroup/PathoHR/PathoHR.png" width="100%">
+operations to generate predictive outputs." src="https://github.com/AIGeeksGroup/PathoHR/blob/main/PathoHR.png" width="100%">
 </center>
 
 ## Citation
