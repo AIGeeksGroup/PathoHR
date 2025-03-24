@@ -2,11 +2,12 @@
 
 This is the code repository for the paper:
 > **PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images**
->
 > 
+> Yang Luo*, Shiru Wang*, Jun Liu*, Jiaxuan Xiao*, Rundong Xue, [Zeyu Zhang](https://steve-zeyu-zhang.github.io)†, Hao Zhang, Yu Lu, [Yang Zhao](https://yangyangkiki.github.io/)**, [Yutong Xie](https://ytongxie.github.io/)
 >
-> submit this paper to <em><b>MICCAI 2025</b></em>  in 2025.2.27
->
+> \*Equal contribution. †Project lead. \**Corresponding author.
+> 
+> **[[arXiv]]()** **[[Paper with Code]]()**
 <center class ='img'>
 <img title="The proposed PathoHR pipeline for breast cancer os prediction. The pipeline consists of three main components: (1) patch-wise feature extraction, (2) token
 merge similarity calculation for representation learning, and (3) a plug-and-play ViTAR encoder, that connects to the Transformer Encoder Block and incorporates Attention
