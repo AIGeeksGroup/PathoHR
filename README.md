@@ -22,27 +22,19 @@ If you use any content of this repo for your work, please cite the following our
 ```
 
 ## Introduction
-Breast cancer survival prediction in computational pathol-
-ogy presents a remarkable challenge due to tumor heterogeneity. For
+Breast cancer survival prediction in computational pathology presents a remarkable challenge due to tumor heterogeneity. For
 instance, different regions of the same tumor in the pathology image can
 show distinct morphological and molecular characteristics. This makes
 it difficult to extract representative features from whole slide images
-(WSIs) that truly reflect the tumor’s aggressive potential and likely sur-
-vival outcomes. In this paper, we present PathoHR, a novel pipeline
+(WSIs) that truly reflect the tumor’s aggressive potential and likely survival outcomes. In this paper, we present PathoHR, a novel pipeline
 for accurate breast cancer survival prediction that enhances any size of
-pathological images to enable more effective feature learning. Our ap-
-proach entails (1) the incorporation of a plug-and-play high-resolution
+pathological images to enable more effective feature learning. Our approach entails (1) the incorporation of a plug-and-play high-resolution
 Vision Transformer (ViT) to enhance patch-wise WSI representation,
-enabling more detailed and comprehensive feature extraction, (2) the sys-
-tematic evaluation of multiple advanced similarity metrics for comparing
+enabling more detailed and comprehensive feature extraction, (2) the systematic evaluation of multiple advanced similarity metrics for comparing
 WSI-extracted features, optimizing the representation learning process to
 better capture tumor characteristics, (3) the demonstration that smaller
-image patches enhanced follow the proposed pipeline can achieve equiv-
-alent or superior prediction accuracy compared to raw larger patches,
-while significantly reducing computational overhead. Experimental find-
-ings valid that PathoHR provides the potential way of integrating en-
-hanced image resolution with optimized feature learning to advance com-
-putational pathology, offering a promising direction for more accurate
+image patches enhanced follow the proposed pipeline can achieve equivalent or superior prediction accuracy compared to raw larger patches,
+while significantly reducing computational overhead. Experimental findings valid that PathoHR provides the potential way of integrating enhanced image resolution with optimized feature learning to advance computational pathology, offering a promising direction for more accurate
 and efficient breast cancer survival prediction.
 
 
