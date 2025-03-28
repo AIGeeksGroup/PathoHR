@@ -18,7 +18,12 @@ operations to generate predictive outputs." src="https://github.com/AIGeeksGroup
 
 If you use any content of this repo for your work, please cite the following our paper:
 ```
-
+@article{luo2025pathohr,
+  title={PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images},
+  author={Luo, Yang and Wang, Shiru and Liu, Jun and Xiao, Jiaxuan and Xue, Rundong and Zhang, Zeyu and Zhang, Hao and Lu, Yu and Zhao, Yang and Xie, Yutong},
+  journal={arXiv preprint arXiv:2503.17970},
+  year={2025}
+}
 ```
 
 ## Introduction
