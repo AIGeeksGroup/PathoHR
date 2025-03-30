@@ -7,7 +7,7 @@ This is the code repository for the paper:
 >
 > \*Equal contribution. †Project lead. \**Corresponding author.
 > 
-> **[[arXiv]](https://arxiv.org/abs/2503.17970)** **[[Paper with Code]](https://paperswithcode.com/paper/pathohr-breast-cancer-survival-prediction-on)**
+> **[[arXiv]](https://arxiv.org/abs/2503.17970)** **[[Paper with Code]](https://paperswithcode.com/paper/pathohr-breast-cancer-survival-prediction-on)** **[[HF Paper]](https://huggingface.co/papers/2503.17970)**
 <center class ='img'>
 <img title="The proposed PathoHR pipeline for breast cancer os prediction. The pipeline consists of three main components: (1) patch-wise feature extraction, (2) token
 merge similarity calculation for representation learning, and (3) a plug-and-play ViTAR encoder, that connects to the Transformer Encoder Block and incorporates Attention
