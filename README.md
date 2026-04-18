@@ -3,7 +3,7 @@
 This is the code repository for the paper:
 > **PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images**
 >
-> Yang Luo*, Shiru Wang*, Jun Liu*, Jiaxuan Xiao*, Rundong Xue, [Zeyu Zhang](https://steve-zeyu-zhang.github.io)†, Hao Zhang, Yu Lu, [Yang Zhao](https://yangyangkiki.github.io/)**, [Yutong Xie](https://ytongxie.github.io/)
+> Yang Luo*, Shiru Wang*, Jun Liu*, Jiaxuan Xiao*, Rundong Xue, [Zeyu Zhang](https://steve-zeyu-zhang.github.io)†, Hao Zhang, Yu Lu, [Yang Zhao](https://yangyangkiki.github.io/)**
 >
 > \*Equal contribution. †Project lead. \**Corresponding author.
 >
