@@ -1,5 +1,8 @@
 # PathoHR
 
+> [!CAUTION] 
+> **Regarding the Arxiv withdrawn:** Yang Luo: We are withdrawing this manuscript to address several unresolved limitations and complete the necessary internal review and approval procedures before further dissemination (confirmed by Dr. Yang Zhao).
+
 This is the code repository for the paper:
 > **PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images**
 >
